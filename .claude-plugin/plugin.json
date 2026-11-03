@@ -1,8 +1,8 @@
 {
-  "name": "zia-tutor",
+  "name": "aimon-tutor",
   "version": "0.1.0",
-  "description": "Zia Tutor AI skill + MCP connector for The AI Agent Factory",
+  "description": "Aimon Tutor AI skill + MCP connector for The AI Agent Factory",
   "author": { "name": "Aimon Shakeel" },
   "license": "MIT",
-  "repository": "https://github.com/AimonShakil/zia-tutor-plugin"
+  "repository": "https://github.com/AimonShakil/aimon-tutor"
 }
