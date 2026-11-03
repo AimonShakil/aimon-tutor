@@ -1,0 +1,11 @@
+{
+  "name": "zia-tutor-plugin",
+  "owner": { "name": "Aimon Shakeel" },
+  "plugins": [
+    {
+      "name": "zia-tutor",
+      "source": "./",
+      "description": "Zia Tutor AI skill + MCP connector for The AI Agent Factory"
+    }
+  ]
+}
